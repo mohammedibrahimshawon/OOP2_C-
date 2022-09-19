@@ -1,0 +1,72 @@
+C:\Users\Shawon lenovo\source\repos\SoccerManagementSystem\bin\x86\Debug\SoccerManagementSystem.exe.config
+C:\Users\Shawon lenovo\source\repos\SoccerManagementSystem\bin\x86\Debug\SoccerManagementSystem.exe
+C:\Users\Shawon lenovo\source\repos\SoccerManagementSystem\bin\x86\Debug\SoccerManagementSystem.pdb
+C:\Users\Shawon lenovo\source\repos\SoccerManagementSystem\obj\x86\Debug\SoccerManagementSystem.Coach.resources
+C:\Users\Shawon lenovo\source\repos\SoccerManagementSystem\obj\x86\Debug\SoccerManagementSystem.Form1.resources
+C:\Users\Shawon lenovo\source\repos\SoccerManagementSystem\obj\x86\Debug\SoccerManagementSystem.Properties.Resources.resources
+C:\Users\Shawon lenovo\source\repos\SoccerManagementSystem\obj\x86\Debug\SoccerManagementSystem.csproj.GenerateResource.cache
+C:\Users\Shawon lenovo\source\repos\SoccerManagementSystem\obj\x86\Debug\SoccerManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Shawon lenovo\source\repos\SoccerManagementSystem\obj\x86\Debug\SoccerManagementSystem.exe
+C:\Users\Shawon lenovo\source\repos\SoccerManagementSystem\obj\x86\Debug\SoccerManagementSystem.pdb
+C:\Users\Shawon lenovo\source\repos\SoccerManagementSystem\obj\x86\Debug\SoccerManagementSystem.csproj.AssemblyReference.cache
+C:\Users\Shawon lenovo\source\repos\SoccerManagementSystem\obj\x86\Debug\SoccerManagementSystem.AdminInstructions.resources
+C:\Users\Soumi\OneDrive\Desktop\New folder (3)\SoccerManagementSystem\bin\x86\Debug\SoccerManagementSystem.exe.config
+C:\Users\Soumi\OneDrive\Desktop\New folder (3)\SoccerManagementSystem\bin\x86\Debug\SoccerManagementSystem.exe
+C:\Users\Soumi\OneDrive\Desktop\New folder (3)\SoccerManagementSystem\bin\x86\Debug\SoccerManagementSystem.pdb
+C:\Users\Soumi\OneDrive\Desktop\New folder (3)\SoccerManagementSystem\obj\x86\Debug\SoccerManagementSystem.csprojAssemblyReference.cache
+C:\Users\Soumi\OneDrive\Desktop\New folder (3)\SoccerManagementSystem\obj\x86\Debug\SoccerManagementSystem.AddEmployee.resources
+C:\Users\Soumi\OneDrive\Desktop\New folder (3)\SoccerManagementSystem\obj\x86\Debug\SoccerManagementSystem.Admin.resources
+C:\Users\Soumi\OneDrive\Desktop\New folder (3)\SoccerManagementSystem\obj\x86\Debug\SoccerManagementSystem.AdminInstructions.resources
+C:\Users\Soumi\OneDrive\Desktop\New folder (3)\SoccerManagementSystem\obj\x86\Debug\SoccerManagementSystem.Coach.resources
+C:\Users\Soumi\OneDrive\Desktop\New folder (3)\SoccerManagementSystem\obj\x86\Debug\SoccerManagementSystem.EmployeeDetails.resources
+C:\Users\Soumi\OneDrive\Desktop\New folder (3)\SoccerManagementSystem\obj\x86\Debug\SoccerManagementSystem.login.resources
+C:\Users\Soumi\OneDrive\Desktop\New folder (3)\SoccerManagementSystem\obj\x86\Debug\SoccerManagementSystem.PlayerPerformance.resources
+C:\Users\Soumi\OneDrive\Desktop\New folder (3)\SoccerManagementSystem\obj\x86\Debug\SoccerManagementSystem.Properties.Resources.resources
+C:\Users\Soumi\OneDrive\Desktop\New folder (3)\SoccerManagementSystem\obj\x86\Debug\SoccerManagementSystem.csproj.GenerateResource.cache
+C:\Users\Soumi\OneDrive\Desktop\New folder (3)\SoccerManagementSystem\obj\x86\Debug\SoccerManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Soumi\OneDrive\Desktop\New folder (3)\SoccerManagementSystem\obj\x86\Debug\SoccerManagementSystem.exe
+C:\Users\Soumi\OneDrive\Desktop\New folder (3)\SoccerManagementSystem\obj\x86\Debug\SoccerManagementSystem.pdb
+C:\Users\Soumi\OneDrive\Desktop\New folder (3)\SoccerManagementSystem\obj\x86\Debug\SoccerManagementSystem.ManageStaffs.resources
+C:\Users\Soumi\Downloads\New folder (4)\SoccerManagementSystem\bin\x86\Debug\SoccerManagementSystem.exe.config
+C:\Users\Soumi\Downloads\New folder (4)\SoccerManagementSystem\bin\x86\Debug\SoccerManagementSystem.exe
+C:\Users\Soumi\Downloads\New folder (4)\SoccerManagementSystem\bin\x86\Debug\SoccerManagementSystem.pdb
+C:\Users\Soumi\Downloads\New folder (4)\SoccerManagementSystem\obj\x86\Debug\SoccerManagementSystem.csprojAssemblyReference.cache
+C:\Users\Soumi\Downloads\New folder (4)\SoccerManagementSystem\obj\x86\Debug\SoccerManagementSystem.AddEmployee.resources
+C:\Users\Soumi\Downloads\New folder (4)\SoccerManagementSystem\obj\x86\Debug\SoccerManagementSystem.Admin.resources
+C:\Users\Soumi\Downloads\New folder (4)\SoccerManagementSystem\obj\x86\Debug\SoccerManagementSystem.AdminInstructions.resources
+C:\Users\Soumi\Downloads\New folder (4)\SoccerManagementSystem\obj\x86\Debug\SoccerManagementSystem.Coach.resources
+C:\Users\Soumi\Downloads\New folder (4)\SoccerManagementSystem\obj\x86\Debug\SoccerManagementSystem.EmployeeDetails.resources
+C:\Users\Soumi\Downloads\New folder (4)\SoccerManagementSystem\obj\x86\Debug\SoccerManagementSystem.login.resources
+C:\Users\Soumi\Downloads\New folder (4)\SoccerManagementSystem\obj\x86\Debug\SoccerManagementSystem.ManageStaffs.resources
+C:\Users\Soumi\Downloads\New folder (4)\SoccerManagementSystem\obj\x86\Debug\SoccerManagementSystem.PlayerPerformance.resources
+C:\Users\Soumi\Downloads\New folder (4)\SoccerManagementSystem\obj\x86\Debug\SoccerManagementSystem.Properties.Resources.resources
+C:\Users\Soumi\Downloads\New folder (4)\SoccerManagementSystem\obj\x86\Debug\SoccerManagementSystem.workout_monitor.resources
+C:\Users\Soumi\Downloads\New folder (4)\SoccerManagementSystem\obj\x86\Debug\SoccerManagementSystem.csproj.GenerateResource.cache
+C:\Users\Soumi\Downloads\New folder (4)\SoccerManagementSystem\obj\x86\Debug\SoccerManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Soumi\Downloads\New folder (4)\SoccerManagementSystem\obj\x86\Debug\SoccerManagementSystem.exe
+C:\Users\Soumi\Downloads\New folder (4)\SoccerManagementSystem\obj\x86\Debug\SoccerManagementSystem.pdb
+C:\Users\Soumi\Downloads\New folder (4)\SoccerManagementSystem\obj\x86\Debug\SoccerManagementSystem.player.resources
+C:\Users\Soumi\Downloads\New folder (4)\SoccerManagementSystem\obj\x86\Debug\SoccerManagementSystem.Staff.resources
+C:\Users\Soumi\Downloads\New folder (4)\SoccerManagementSystem\obj\x86\Debug\SoccerManagementSystem.WorkSchedule.resources
+D:\summer 2021\OOP2\final project\SoccerManagementSystem (1)\SoccerManagementSystem\bin\x86\Debug\SoccerManagementSystem.exe.config
+D:\summer 2021\OOP2\final project\SoccerManagementSystem (1)\SoccerManagementSystem\bin\x86\Debug\SoccerManagementSystem.exe
+D:\summer 2021\OOP2\final project\SoccerManagementSystem (1)\SoccerManagementSystem\obj\x86\Debug\SoccerManagementSystem.csproj.AssemblyReference.cache
+D:\summer 2021\OOP2\final project\SoccerManagementSystem (1)\SoccerManagementSystem\obj\x86\Debug\SoccerManagementSystem.AddEmployee.resources
+D:\summer 2021\OOP2\final project\SoccerManagementSystem (1)\SoccerManagementSystem\obj\x86\Debug\SoccerManagementSystem.Admin.resources
+D:\summer 2021\OOP2\final project\SoccerManagementSystem (1)\SoccerManagementSystem\obj\x86\Debug\SoccerManagementSystem.AdminInstructions.resources
+D:\summer 2021\OOP2\final project\SoccerManagementSystem (1)\SoccerManagementSystem\obj\x86\Debug\SoccerManagementSystem.Coach.resources
+D:\summer 2021\OOP2\final project\SoccerManagementSystem (1)\SoccerManagementSystem\obj\x86\Debug\SoccerManagementSystem.EmployeeDetails.resources
+D:\summer 2021\OOP2\final project\SoccerManagementSystem (1)\SoccerManagementSystem\obj\x86\Debug\SoccerManagementSystem.login.resources
+D:\summer 2021\OOP2\final project\SoccerManagementSystem (1)\SoccerManagementSystem\obj\x86\Debug\SoccerManagementSystem.ManageStaffs.resources
+D:\summer 2021\OOP2\final project\SoccerManagementSystem (1)\SoccerManagementSystem\obj\x86\Debug\SoccerManagementSystem.PlayerPerformance.resources
+D:\summer 2021\OOP2\final project\SoccerManagementSystem (1)\SoccerManagementSystem\obj\x86\Debug\SoccerManagementSystem.player.resources
+D:\summer 2021\OOP2\final project\SoccerManagementSystem (1)\SoccerManagementSystem\obj\x86\Debug\SoccerManagementSystem.Properties.Resources.resources
+D:\summer 2021\OOP2\final project\SoccerManagementSystem (1)\SoccerManagementSystem\obj\x86\Debug\SoccerManagementSystem.Staff.resources
+D:\summer 2021\OOP2\final project\SoccerManagementSystem (1)\SoccerManagementSystem\obj\x86\Debug\SoccerManagementSystem.workout_monitor.resources
+D:\summer 2021\OOP2\final project\SoccerManagementSystem (1)\SoccerManagementSystem\obj\x86\Debug\SoccerManagementSystem.WorkSchedule.resources
+D:\summer 2021\OOP2\final project\SoccerManagementSystem (1)\SoccerManagementSystem\obj\x86\Debug\SoccerManagementSystem.csproj.GenerateResource.cache
+D:\summer 2021\OOP2\final project\SoccerManagementSystem (1)\SoccerManagementSystem\obj\x86\Debug\SoccerManagementSystem.csproj.CoreCompileInputs.cache
+D:\summer 2021\OOP2\final project\SoccerManagementSystem (1)\SoccerManagementSystem\obj\x86\Debug\SoccerManagementSystem.exe
+D:\summer 2021\OOP2\final project\SoccerManagementSystem (1)\SoccerManagementSystem\obj\x86\Debug\SoccerManagementSystem.pdb
+D:\summer 2021\OOP2\final project\SoccerManagementSystem (1)\SoccerManagementSystem\bin\x86\Debug\SoccerManagementSystem.pdb
+D:\summer 2021\OOP2\final project\SoccerManagementSystem (1)\SoccerManagementSystem\obj\x86\Debug\SoccerManagementSystem.EditProfile.resources
